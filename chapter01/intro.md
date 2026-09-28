@@ -25,3 +25,9 @@ if everything went well, we deploy: online evaluation, evaluation of live users
 
 
 Model evaluation process
+1-split dataset
+2-train model
+3-validade model
+4-repeat steps 2-3 for as many models as you need.
+5-select the best model.
+6-apply the best model to the test set and make sure the erformance is close to what you saw on validation.
